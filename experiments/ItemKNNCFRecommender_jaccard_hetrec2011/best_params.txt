@@ -1,0 +1,1 @@
+{"topK": 188, "shrink": 996, "normalize": true, "similarity": "jaccard"}

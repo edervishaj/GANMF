@@ -1,0 +1,1 @@
+{"topK": 13, "shrink": 21, "normalize": true, "similarity": "euclidean", "normalize_avg_row": false, "similarity_from_distance_mode": "exp"}

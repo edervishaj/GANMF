@@ -1,0 +1,1 @@
+{"topK": 999, "shrink": 13, "normalize": true, "similarity": "dice"}

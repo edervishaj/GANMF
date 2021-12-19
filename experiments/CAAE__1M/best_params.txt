@@ -1,0 +1,1 @@
+{"epochs": 95, "d_steps": 10, "g_steps": 10, "gpr_steps": 20, "g_layers": 5, "gpr_layers": 4, "g_units": 100, "gpr_units": 150, "num_factors": 43, "m_batch": 64, "d_bsize": 9216, "lr": 0.001, "beta": 0.1, "S": 0.6, "lmbda": 0.9}

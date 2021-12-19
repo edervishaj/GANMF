@@ -1,0 +1,1 @@
+{"epochs": 95, "num_factors": 119, "batch_size": 512, "m": 6, "d_lr": 0.0001, "g_lr": 0.0028506330805297855, "d_reg": 7.535833278825219e-05, "recon_coefficient": 0.01, "emb_dim": 530}

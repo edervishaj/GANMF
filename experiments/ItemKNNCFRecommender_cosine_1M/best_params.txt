@@ -1,0 +1,1 @@
+{"topK": 297, "shrink": 0, "normalize": true, "similarity": "cosine"}

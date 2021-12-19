@@ -1,0 +1,1 @@
+{"epochs": 215, "d_hidden_act": "relu", "d_layers": 1, "num_factors": 96, "batch_size": 256, "d_lr": 0.0009137380167586102, "g_lr": 0.00025474803632743136, "d_reg": 2.118133156832294e-05, "recon_coefficient": 0.48604625858693445, "d_nodes": 480}

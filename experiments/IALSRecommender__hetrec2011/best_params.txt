@@ -1,0 +1,1 @@
+{"num_factors": 25, "confidence_scaling": "linear", "alpha": 3.0385586736201096, "reg": 3.0188803895504417e-05, "epsilon": 2.8222155926812755, "epochs": 10}

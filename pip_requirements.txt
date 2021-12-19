@@ -1,0 +1,14 @@
+cython==0.29.7
+matplotlib==3.0.2
+numpy==1.16.2
+pandas==0.24.1
+psutil==5.6.0
+requests==2.21.0
+scikit-learn==0.20.2
+scikit-optimize==0.7.2
+scipy==1.2.1
+seaborn==0.9.0
+telegram-send==0.25
+tensorflow==1.12.0
+theano==1.0.3+2.g3e47d39ac.dirty
+tqdm==4.31.1

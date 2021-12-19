@@ -1,0 +1,1 @@
+{"topK": 672, "epochs": 120, "symmetric": true, "sgd_mode": "adagrad", "lambda_i": 0.001, "lambda_j": 0.001, "learning_rate": 0.1}

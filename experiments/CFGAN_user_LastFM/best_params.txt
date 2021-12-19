@@ -1,0 +1,1 @@
+{"epochs": 46, "d_steps": 1, "g_steps": 1, "d_layers": 5, "g_layers": 1, "d_hidden_act": "linear", "g_hidden_act": "tanh", "scheme": "ZR", "d_batch_size": 128, "g_batch_size": 1024, "zr_ratio": 0.4515475140394092, "zp_ratio": 1.0, "zr_coefficient": 0.05049684341469494, "d_lr": 0.0001, "g_lr": 0.00018640602403973558, "d_reg": 0.0001, "g_reg": 0.0001, "d_nodes": 4, "g_nodes": 1024}

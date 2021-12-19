@@ -1,0 +1,1 @@
+{"topK": 168, "shrink": 239, "normalize": true, "similarity": "tversky", "tversky_alpha": 0.0, "tversky_beta": 2.0}

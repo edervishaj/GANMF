@@ -1,0 +1,1 @@
+{"topK": 58, "shrink": 9, "normalize": true, "similarity": "asymmetric", "asymmetric_alpha": 0.008589361577121314}
