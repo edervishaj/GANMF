@@ -1,5 +1,5 @@
 # GAN-based Matrix Factorization for Recommender Systems
-This repository contains the datasets' splits, the source code of the experiments and their results for the paper "GAN-based Matrix Factorization for Recommender Systems" accepted at the 37th ACM/SIGAPP Symposium on Applied Computing (SAC '22).
+This repository contains the datasets' splits, the source code of the experiments and their results for the paper "GAN-based Matrix Factorization for Recommender Systems" (arXiv: https://arxiv.org/abs/2201.08042) accepted at the 37th ACM/SIGAPP Symposium on Applied Computing (SAC '22).
 
 ## How to use this repo
 This repo is based on a version of [Recsys_Course_AT_PoliMi](https://github.com/MaurizioFD/RecSys_Course_AT_PoliMi). In order to run the code and experiments you need first to setup a Python environment. Any environment manager will work, but we suggest `conda` since it is easier to recreate our environment if using a GPU. `conda` can help with the installation of `CUDA` and `CUDA toolkit` necessary to utilize available GPU(s). We highly recommend running this repo with a GPU since GAN-based
