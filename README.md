@@ -1,4 +1,7 @@
 # GAN-based Matrix Factorization for Recommender Systems
+
+<img src="GANMF.png" alt="GANMF architecture" width="700">
+
 This repository contains the datasets' splits, the source code of the experiments and their results for the paper "GAN-based Matrix Factorization for Recommender Systems" (arXiv: https://arxiv.org/abs/2201.08042) accepted at the 37th ACM/SIGAPP Symposium on Applied Computing (SAC '22).
 
 ## How to use this repo
